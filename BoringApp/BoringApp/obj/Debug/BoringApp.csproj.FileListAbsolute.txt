@@ -1,0 +1,7 @@
+C:\Users\Dannel\Development\c_sharp_projects\boring_ws\BoringApp\BoringApp\bin\Debug\BoringApp.exe.config
+C:\Users\Dannel\Development\c_sharp_projects\boring_ws\BoringApp\BoringApp\bin\Debug\BoringApp.exe
+C:\Users\Dannel\Development\c_sharp_projects\boring_ws\BoringApp\BoringApp\bin\Debug\BoringApp.pdb
+C:\Users\Dannel\Development\c_sharp_projects\boring_ws\BoringApp\BoringApp\obj\Debug\BoringApp.csprojResolveAssemblyReference.cache
+C:\Users\Dannel\Development\c_sharp_projects\boring_ws\BoringApp\BoringApp\obj\Debug\BoringApp.csproj.CoreCompileInputs.cache
+C:\Users\Dannel\Development\c_sharp_projects\boring_ws\BoringApp\BoringApp\obj\Debug\BoringApp.exe
+C:\Users\Dannel\Development\c_sharp_projects\boring_ws\BoringApp\BoringApp\obj\Debug\BoringApp.pdb
